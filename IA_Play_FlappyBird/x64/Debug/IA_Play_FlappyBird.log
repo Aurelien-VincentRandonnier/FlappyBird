@@ -1,0 +1,16 @@
+﻿  Game.cpp
+  GameObject.cpp
+C:\Users\aurel\source\repos\IA_Play_FlappyBird\IA_Play_FlappyBird\GameObject.cpp(18,32): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+C:\Users\aurel\source\repos\IA_Play_FlappyBird\IA_Play_FlappyBird\GameObject.cpp(18,32): warning C4244:         with
+C:\Users\aurel\source\repos\IA_Play_FlappyBird\IA_Play_FlappyBird\GameObject.cpp(18,32): warning C4244:         [
+C:\Users\aurel\source\repos\IA_Play_FlappyBird\IA_Play_FlappyBird\GameObject.cpp(18,32): warning C4244:             T=unsigned int
+C:\Users\aurel\source\repos\IA_Play_FlappyBird\IA_Play_FlappyBird\GameObject.cpp(18,32): warning C4244:         ]
+C:\Users\aurel\source\repos\IA_Play_FlappyBird\IA_Play_FlappyBird\GameObject.cpp(18,32): warning C4244:         and
+C:\Users\aurel\source\repos\IA_Play_FlappyBird\IA_Play_FlappyBird\GameObject.cpp(18,32): warning C4244:         [
+C:\Users\aurel\source\repos\IA_Play_FlappyBird\IA_Play_FlappyBird\GameObject.cpp(18,32): warning C4244:             T=float
+C:\Users\aurel\source\repos\IA_Play_FlappyBird\IA_Play_FlappyBird\GameObject.cpp(18,32): warning C4244:         ]
+  Main.cpp
+  Pipe.cpp
+  Player.cpp
+  Generating Code...
+  IA_Play_FlappyBird.vcxproj -> C:\Users\aurel\source\repos\IA_Play_FlappyBird\x64\Debug\IA_Play_FlappyBird.exe
